@@ -87,31 +87,6 @@ Step 3: Run Project
 
 ---
 
-👨‍💻 Team Members
-
-- Member 1: GUI Design
-- Member 2: Database Design
-- Member 3: Backend (JDBC)
-- Member 4: Testing & Integration
-
----
-
-📚 Viva Questions
-
-Q1: What is JDBC?
-JDBC is an API used to connect Java with databases.
-
-Q2: What is a Foreign Key?
-It links one table with another table.
-
-Q3: Why PreparedStatement?
-It prevents SQL injection and improves performance.
-
-Q4: What is Swing?
-Swing is a Java library used to build GUI applications.
-
----
-
 📌 Conclusion
 
 This project demonstrates integration of Java GUI with MySQL database and performs complete CRUD operations.
